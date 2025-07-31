@@ -1,4 +1,4 @@
-# WCAG Color Accessibility Checker 🎨🧠
+# WCAG Color Contrast Checker 🎨🧠
 
 **Live Demo**: [https://danishmk1286.github.io/WCAG-Color-Accessibility-Checker](https://danishmk1286.github.io/WCAG-Color-Accessibility-Checker)
 
