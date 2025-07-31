@@ -1,57 +1,45 @@
-# Welcome to your Lovable project
+# WCAG Color Accessibility Checker 🎨🧠
 
-## Project info
+**Live Demo**: [https://danishmk1286.github.io/WCAG-Color-Accessibility-Checker](https://danishmk1286.github.io/WCAG-Color-Accessibility-Checker)
 
-**URL**: https://lovable.dev/projects/5a33df19-85f7-4fe3-8120-e40b65ba5ef7
+A sleek, responsive, and developer-friendly **WCAG-compliant color contrast checker** built with **React**, **TypeScript**, and **Tailwind CSS**. This tool helps designers and developers ensure their color combinations meet accessibility standards for users with visual impairments.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use your preferred IDE**
+- ✅ **WCAG 2.1 Compliance**: Checks contrast ratios against AA and AAA standards
+- 🌗 **Light/Dark Mode Toggle**: User-friendly theme switcher with default light mode
+- 🎯 **Real-Time Feedback**: Instant contrast evaluation as you type
+- 📱 **Responsive Design**: Works seamlessly across desktop and mobile
+- ⚡ **Fast & Lightweight**: Built with Vite for blazing-fast performance
+- 🧪 **Modern Stack**: React + TypeScript + Tailwind CSS + React Query
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📸 Screenshot
 
-Follow these steps:
+> <img width="1088" height="1102" alt="image" src="https://github.com/user-attachments/assets/5f5fca22-1b1a-4655-9e69-c8ff9df3d98b" />
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+| Technology       | Purpose                          |
+|------------------|----------------------------------|
+| React + TypeScript | UI and logic                 |
+| Tailwind CSS     | Styling and theming              |
+| Vite             | Fast build and dev environment   |
+| React Query      | State and data management        |
+| GitHub Pages     | Deployment                       |
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Danishmk1286/WCAG-Color-Accessibility-Checker.git
+cd WCAG-Color-Accessibility-Checker
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-
