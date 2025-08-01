@@ -1,6 +1,6 @@
 # WCAG Color Contrast Checker 🎨🧠
 
-**Live Demo**: [https://danishmk1286.github.io/WCAG-Color-Accessibility-Checker](https://danishmk1286.github.io/WCAG-Color-Accessibility-Checker)
+**Live Demo**: [www.thecolorcontrastchecker.com)
 
 A sleek, responsive, and developer-friendly **WCAG-compliant color contrast checker** built with **React**, **TypeScript**, and **Tailwind CSS**. This tool helps designers and developers ensure their color combinations meet accessibility standards for users with visual impairments.
 
