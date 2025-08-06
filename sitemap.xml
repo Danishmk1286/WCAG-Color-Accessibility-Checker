@@ -15,11 +15,5 @@
     <priority>0.5</priority>
   </url>
 
-  <url>
-    <loc>https://www.thecolorcontrastchecker.com/privacy</loc>
-    <lastmod>2024-08-06</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
+  
 </urlset>
