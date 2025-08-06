@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
         <div className="flex items-center gap-2 text-sm">
           <span className="text-muted-foreground">Created by</span>
           <a 
-            href="http://linkedin.com/danishmk1286" 
+            href="https://www.linkedin.com/in/danishmk1286/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-1 text-primary hover:text-primary/80 transition-colors font-medium"
